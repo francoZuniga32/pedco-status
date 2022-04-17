@@ -5,10 +5,10 @@ repo: pedco-status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: FAI-web
+    url: https://faiweb.uncoma.edu.ar/
+  - name: PEDCO
+    url: https://pedco.uncoma.edu.ar/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
