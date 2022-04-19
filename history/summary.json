@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 922,
+      "2022-04-19": 125,
+      "2022-04-18": 1440,
       "2022-04-17": 1299
     }
   },
@@ -37,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 922,
+      "2022-04-19": 125,
+      "2022-04-18": 1440,
       "2022-04-17": 1299
     }
   },
@@ -58,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 922,
+      "2022-04-19": 125,
+      "2022-04-18": 1440,
       "2022-04-17": 1291
     }
   },
@@ -68,18 +71,19 @@
     "icon": "https://favicons.githubusercontent.com/debianfai.fi.uncoma.edu.ar",
     "slug": "debian-fai",
     "status": "down",
-    "uptime": "1.08%",
+    "uptime": "0.84%",
     "uptimeDay": "1.63%",
-    "uptimeWeek": "1.08%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "1.08%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 1221,
     "timeDay": 1221,
     "timeWeek": 1221,
     "timeMonth": 1221,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2022-04-18": 899,
+      "2022-04-19": 125,
+      "2022-04-18": 1417,
       "2022-04-17": 1291
     }
   }
