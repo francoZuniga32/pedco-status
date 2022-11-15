@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "90.61%",
-    "uptimeYear": "94.97%",
+    "uptimeYear": "94.98%",
     "time": 4804,
     "timeDay": 5505,
     "timeWeek": 7860,
@@ -60,9 +60,9 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "96.75%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "98.87%",
@@ -72,6 +72,7 @@
     "timeMonth": 2819,
     "timeYear": 2207,
     "dailyMinutesDown": {
+      "2022-11-15": 0,
       "2022-11-14": 20,
       "2022-11-13": 224,
       "2022-11-12": 22,
@@ -164,8 +165,7 @@
       "2022-07-28": 17,
       "2022-07-27": 35,
       "2022-07-26": 22,
-      "2022-07-25": 22,
-      "2022-07-24": 19
+      "2022-07-25": 22
     }
   },
   {
@@ -173,18 +173,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "39.54%",
-    "uptimeWeek": "75.93%",
+    "status": "down",
+    "uptime": "95.66%",
+    "uptimeDay": "64.30%",
+    "uptimeWeek": "79.47%",
     "uptimeMonth": "91.91%",
-    "uptimeYear": "95.65%",
-    "time": 2855,
-    "timeDay": 10394,
-    "timeWeek": 3952,
-    "timeMonth": 2592,
-    "timeYear": 2855,
+    "uptimeYear": "95.66%",
+    "time": 2852,
+    "timeDay": 7443,
+    "timeWeek": 3751,
+    "timeMonth": 2571,
+    "timeYear": 2852,
     "dailyMinutesDown": {
+      "2022-11-15": 0,
       "2022-11-14": 996,
       "2022-11-13": 881,
       "2022-11-12": 26,
@@ -267,7 +268,7 @@
       "2022-05-07": 52,
       "2022-05-06": 54,
       "2022-05-05": 48,
-      "2022-05-04": 57
+      "2022-05-04": 41
     }
   },
   {
