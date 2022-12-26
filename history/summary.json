@@ -63,18 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.07%",
     "time": 2217,
     "timeDay": 1692,
-    "timeWeek": 1925,
+    "timeWeek": 1805,
     "timeMonth": 2207,
     "timeYear": 2217,
     "dailyMinutesDown": {
-      "2022-12-26": 11,
       "2022-12-25": 18,
       "2022-12-20": 16,
       "2022-12-17": 16,
@@ -167,7 +166,8 @@
       "2022-08-31": 72,
       "2022-08-29": 215,
       "2022-08-28": 24,
-      "2022-08-27": 17
+      "2022-08-27": 17,
+      "2022-08-26": 20
     }
   },
   {
@@ -175,18 +175,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "96.36%",
-    "uptimeDay": "98.80%",
+    "status": "down",
+    "uptime": "96.37%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "96.36%",
-    "time": 2846,
-    "timeDay": 2171,
-    "timeWeek": 4355,
-    "timeMonth": 2907,
-    "timeYear": 2846,
+    "uptimeYear": "96.37%",
+    "time": 2843,
+    "timeDay": 1922,
+    "timeWeek": 4156,
+    "timeMonth": 2877,
+    "timeYear": 2843,
     "dailyMinutesDown": {
+      "2022-12-26": 0,
       "2022-12-25": 17,
       "2022-12-22": 21,
       "2022-12-18": 18,
@@ -276,7 +277,7 @@
       "2022-05-14": 68,
       "2022-05-13": 58,
       "2022-05-12": 56,
-      "2022-05-11": 37
+      "2022-05-11": 18
     }
   },
   {
