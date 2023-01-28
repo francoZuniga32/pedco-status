@@ -6,9 +6,9 @@
     "slug": "fai-web",
     "status": "up",
     "uptime": "96.06%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "96.06%",
     "time": 4906,
     "timeDay": 4561,
@@ -16,7 +16,6 @@
     "timeMonth": 5507,
     "timeYear": 4906,
     "dailyMinutesDown": {
-      "2023-01-28": 8,
       "2023-01-25": 42,
       "2023-01-06": 22,
       "2023-01-04": 607,
@@ -67,10 +66,10 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "97.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "82.62%",
     "uptimeYear": "97.50%",
     "time": 2234,
@@ -79,6 +78,7 @@
     "timeMonth": 2372,
     "timeYear": 2234,
     "dailyMinutesDown": {
+      "2023-01-28": 0,
       "2023-01-25": 62,
       "2023-01-22": 17,
       "2023-01-21": 16,
@@ -176,8 +176,7 @@
       "2022-09-21": 36,
       "2022-09-20": 34,
       "2022-09-18": 25,
-      "2022-09-17": 31,
-      "2022-09-16": 27
+      "2022-09-17": 31
     }
   },
   {
