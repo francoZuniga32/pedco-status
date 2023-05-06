@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
@@ -81,11 +81,11 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "97.14%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.40%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "96.99%",
     "time": 2358,
     "timeDay": 2015,
@@ -93,6 +93,7 @@
     "timeMonth": 2829,
     "timeYear": 2365,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-05-05": 23,
       "2023-05-02": 24,
       "2023-04-29": 23,
@@ -190,8 +191,7 @@
       "2022-12-08": 21,
       "2022-12-07": 19,
       "2022-12-06": 16,
-      "2022-12-05": 22,
-      "2022-12-02": 37
+      "2022-12-05": 22
     }
   },
   {
@@ -199,18 +199,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "97.16%",
-    "time": 3196,
-    "timeDay": 2108,
-    "timeWeek": 2805,
-    "timeMonth": 4111,
-    "timeYear": 3109,
+    "uptimeYear": "97.20%",
+    "time": 3195,
+    "timeDay": 2082,
+    "timeWeek": 2730,
+    "timeMonth": 4076,
+    "timeYear": 3108,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-05-03": 19,
       "2023-04-27": 16,
       "2023-04-22": 204,
@@ -306,8 +307,7 @@
       "2022-09-15": 21,
       "2022-09-07": 28,
       "2022-09-04": 25,
-      "2022-08-31": 53,
-      "2022-08-29": 188
+      "2022-08-31": 53
     }
   },
   {
