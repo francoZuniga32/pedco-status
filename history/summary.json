@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
@@ -81,11 +81,11 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "95.91%",
     "uptimeYear": "96.71%",
     "time": 2408,
     "timeDay": 1718,
@@ -93,6 +93,7 @@
     "timeMonth": 3243,
     "timeYear": 2443,
     "dailyMinutesDown": {
+      "2023-05-19": 0,
       "2023-05-18": 23,
       "2023-05-17": 23,
       "2023-05-14": 21,
@@ -191,8 +192,7 @@
       "2022-12-20": 16,
       "2022-12-17": 16,
       "2022-12-15": 22,
-      "2022-12-14": 39,
-      "2022-12-13": 17
+      "2022-12-14": 39
     }
   },
   {
@@ -204,12 +204,12 @@
     "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.23%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "97.20%",
     "time": 3205,
     "timeDay": 1816,
     "timeWeek": 3626,
-    "timeMonth": 3736,
+    "timeMonth": 3768,
     "timeYear": 3103,
     "dailyMinutesDown": {
       "2023-05-17": 18,
@@ -317,7 +317,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "88.91%",
+    "uptime": "88.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.12%",
@@ -408,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 97,
+      "2023-05-19": 495,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 516
