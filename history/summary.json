@@ -10,10 +10,10 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "97.31%",
-    "time": 4951,
-    "timeDay": 4753,
-    "timeWeek": 3883,
-    "timeMonth": 4633,
+    "time": 4949,
+    "timeDay": 4317,
+    "timeWeek": 3942,
+    "timeMonth": 4645,
     "timeYear": 5045,
     "dailyMinutesDown": {
       "2023-06-24": 50,
@@ -65,8 +65,7 @@
       "2022-07-29": 20,
       "2022-07-27": 36,
       "2022-07-25": 27,
-      "2022-07-09": 33,
-      "2022-07-01": 45
+      "2022-07-09": 33
     }
   },
   {
@@ -78,12 +77,12 @@
     "uptime": "98.39%",
     "uptimeDay": "92.64%",
     "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.71%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "98.06%",
     "time": 2469,
-    "timeDay": 1988,
-    "timeWeek": 1889,
-    "timeMonth": 2788,
+    "timeDay": 1910,
+    "timeWeek": 1901,
+    "timeMonth": 2816,
     "timeYear": 2501,
     "dailyMinutesDown": {
       "2023-06-30": 106,
@@ -195,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "97.48%",
-    "time": 3149,
-    "timeDay": 2253,
-    "timeWeek": 2022,
-    "timeMonth": 3107,
-    "timeYear": 3165,
+    "time": 3150,
+    "timeDay": 2057,
+    "timeWeek": 2078,
+    "timeMonth": 3122,
+    "timeYear": 3166,
     "dailyMinutesDown": {
       "2023-06-15": 18,
       "2023-06-12": 18,
@@ -305,15 +304,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "89.06%",
+    "uptime": "89.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "88.39%",
-    "time": 1300,
-    "timeDay": 1009,
-    "timeWeek": 1057,
-    "timeMonth": 1224,
+    "time": 1299,
+    "timeDay": 1036,
+    "timeWeek": 1065,
+    "timeMonth": 1108,
     "timeYear": 1322,
     "dailyMinutesDown": {
       "2023-06-24": 49,
@@ -381,8 +380,7 @@
       "2022-08-31": 52,
       "2022-08-29": 206,
       "2022-07-27": 34,
-      "2022-07-09": 32,
-      "2022-07-01": 43
+      "2022-07-09": 32
     }
   },
   {
@@ -394,7 +392,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -402,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 854,
+      "2023-07-01": 125,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
