@@ -74,18 +74,19 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 2472,
     "timeDay": 1744,
     "timeWeek": 2894,
     "timeMonth": 2825,
     "timeYear": 2504,
     "dailyMinutesDown": {
+      "2023-07-05": 0,
       "2023-07-03": 19,
       "2023-06-30": 106,
       "2023-06-29": 16,
@@ -180,8 +181,7 @@
       "2023-02-05": 28,
       "2023-02-04": 16,
       "2023-02-03": 31,
-      "2023-02-02": 21,
-      "2023-02-01": 20
+      "2023-02-02": 21
     }
   },
   {
@@ -189,18 +189,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.94%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "97.49%",
-    "time": 3141,
-    "timeDay": 1858,
-    "timeWeek": 2108,
-    "timeMonth": 3012,
+    "time": 3144,
+    "timeDay": 2523,
+    "timeWeek": 2216,
+    "timeMonth": 3016,
     "timeYear": 3147,
     "dailyMinutesDown": {
+      "2023-07-05": 0,
       "2023-07-03": 35,
       "2023-06-15": 18,
       "2023-06-12": 18,
@@ -294,8 +295,7 @@
       "2022-10-08": 63,
       "2022-10-06": 32,
       "2022-10-05": 62,
-      "2022-10-01": 29,
-      "2022-09-29": 37
+      "2022-10-01": 29
     }
   },
   {
@@ -304,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "89.17%",
+    "uptime": "89.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.77%",
@@ -401,7 +401,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-05": 118,
+      "2023-07-05": 482,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
