@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "97.31%",
-    "time": 4937,
-    "timeDay": 3705,
-    "timeWeek": 4046,
-    "timeMonth": 4463,
+    "time": 4935,
+    "timeDay": 4281,
+    "timeWeek": 4095,
+    "timeMonth": 4387,
     "timeYear": 5059,
     "dailyMinutesDown": {
       "2023-07-03": 16,
@@ -65,8 +65,7 @@
       "2022-08-29": 207,
       "2022-07-29": 20,
       "2022-07-27": 36,
-      "2022-07-25": 27,
-      "2022-07-09": 33
+      "2022-07-25": 27
     }
   },
   {
@@ -76,17 +75,16 @@
     "slug": "pedco",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "98.06%",
-    "time": 2475,
-    "timeDay": 1861,
-    "timeWeek": 2483,
-    "timeMonth": 2760,
-    "timeYear": 2506,
+    "time": 2476,
+    "timeDay": 1888,
+    "timeWeek": 2501,
+    "timeMonth": 2765,
+    "timeYear": 2507,
     "dailyMinutesDown": {
-      "2023-07-08": 13,
       "2023-07-07": 15,
       "2023-07-06": 21,
       "2023-07-05": 40,
@@ -181,7 +179,8 @@
       "2023-02-11": 15,
       "2023-02-09": 518,
       "2023-02-06": 20,
-      "2023-02-05": 28
+      "2023-02-05": 28,
+      "2023-02-04": 16
     }
   },
   {
@@ -195,11 +194,11 @@
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "97.49%",
-    "time": 3143,
-    "timeDay": 2650,
-    "timeWeek": 2216,
-    "timeMonth": 2655,
-    "timeYear": 3154,
+    "time": 3125,
+    "timeDay": 2263,
+    "timeWeek": 2242,
+    "timeMonth": 2472,
+    "timeYear": 3160,
     "dailyMinutesDown": {
       "2023-07-05": 28,
       "2023-07-03": 35,
@@ -304,16 +303,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "89.25%",
+    "uptime": "89.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "88.40%",
-    "time": 1293,
-    "timeDay": 903,
-    "timeWeek": 913,
-    "timeMonth": 1052,
-    "timeYear": 1320,
+    "time": 1302,
+    "timeDay": 5926,
+    "timeWeek": 1553,
+    "timeMonth": 1177,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2023-07-03": 16,
       "2023-06-24": 49,
@@ -380,8 +379,7 @@
       "2022-09-06": 366,
       "2022-08-31": 52,
       "2022-08-29": 206,
-      "2022-07-27": 34,
-      "2022-07-09": 32
+      "2022-07-27": 34
     }
   },
   {
@@ -401,7 +399,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 511,
+      "2023-07-09": 129,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
