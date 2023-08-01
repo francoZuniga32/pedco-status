@@ -13,6 +13,8 @@ sites:
     url: http://debianfai.fi.uncoma.edu.ar/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: prueba error
+    url: https://cefai.fi.uncoma.edu.ar/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
