@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "94.67%",
+    "uptime": "94.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.99%",
     "uptimeMonth": "72.44%",
@@ -83,18 +83,19 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "98.82%",
-    "time": 2643,
+    "time": 2644,
     "timeDay": 1916,
     "timeWeek": 3593,
     "timeMonth": 4153,
     "timeYear": 2670,
     "dailyMinutesDown": {
+      "2023-08-02": 2,
       "2023-08-01": 25,
       "2023-07-31": 581,
       "2023-07-30": 186,
@@ -185,8 +186,7 @@
       "2023-03-04": 36,
       "2023-03-03": 16,
       "2023-03-02": 22,
-      "2023-03-01": 40,
-      "2023-02-28": 18
+      "2023-03-01": 40
     }
   },
   {
@@ -317,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "down",
-    "uptime": "84.81%",
+    "uptime": "84.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.34%",
-    "uptimeYear": "81.94%",
+    "uptimeMonth": "21.39%",
+    "uptimeYear": "81.86%",
     "time": 1292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1553,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2023-08-02": 85,
+      "2023-08-02": 502,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -437,7 +437,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 85,
+      "2023-08-02": 502,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -535,7 +535,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 85,
+      "2023-08-02": 502,
       "2023-08-01": 526
     }
   }
