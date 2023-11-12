@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "94.81%",
+    "uptime": "94.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
@@ -13,7 +13,7 @@
     "time": 4960,
     "timeDay": 3865,
     "timeWeek": 4311,
-    "timeMonth": 4422,
+    "timeMonth": 4412,
     "timeYear": 4894,
     "dailyMinutesDown": {
       "2023-11-02": 123,
@@ -82,9 +82,9 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "98.35%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.35%",
@@ -94,6 +94,7 @@
     "timeMonth": 2703,
     "timeYear": 2945,
     "dailyMinutesDown": {
+      "2023-11-12": 0,
       "2023-11-11": 24,
       "2023-11-10": 29,
       "2023-11-08": 23,
@@ -190,8 +191,7 @@
       "2023-07-24": 18,
       "2023-07-23": 28,
       "2023-07-22": 28,
-      "2023-07-14": 17,
-      "2023-07-13": 16
+      "2023-07-14": 17
     }
   },
   {
@@ -207,7 +207,7 @@
     "uptimeYear": "94.14%",
     "time": 3419,
     "timeDay": 1934,
-    "timeWeek": 2203,
+    "timeWeek": 2187,
     "timeMonth": 2466,
     "timeYear": 3610,
     "dailyMinutesDown": {
@@ -321,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "75.47%",
+    "uptime": "75.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
@@ -504,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-12": 84,
+      "2023-11-12": 490,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -693,11 +693,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "54.74%",
+    "uptime": "54.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "54.74%",
+    "uptimeYear": "54.86%",
     "time": 1897,
     "timeDay": 6564,
     "timeWeek": 2079,
