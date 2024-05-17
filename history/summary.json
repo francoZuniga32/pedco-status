@@ -79,11 +79,11 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "96.41%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "99.26%",
     "time": 3081,
     "timeDay": 1841,
@@ -91,6 +91,7 @@
     "timeMonth": 3460,
     "timeYear": 3092,
     "dailyMinutesDown": {
+      "2024-05-17": 0,
       "2024-05-16": 19,
       "2024-05-15": 24,
       "2024-05-12": 23,
@@ -188,8 +189,7 @@
       "2024-02-02": 23,
       "2024-02-01": 24,
       "2024-01-31": 22,
-      "2024-01-30": 19,
-      "2024-01-29": 23
+      "2024-01-30": 19
     }
   },
   {
@@ -473,7 +473,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-17": 205,
+      "2024-05-17": 500,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -846,11 +846,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "83.07%",
+    "uptime": "83.09%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "83.07%",
+    "uptimeYear": "83.09%",
     "time": 1396,
     "timeDay": 1044,
     "timeWeek": 1140,
