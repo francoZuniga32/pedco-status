@@ -10,11 +10,11 @@
     "uptimeWeek": "98.88%",
     "uptimeMonth": "88.69%",
     "uptimeYear": "96.85%",
-    "time": 4555,
-    "timeDay": 4734,
-    "timeWeek": 5444,
-    "timeMonth": 5050,
-    "timeYear": 4536,
+    "time": 4556,
+    "timeDay": 4423,
+    "timeWeek": 5460,
+    "timeMonth": 5048,
+    "timeYear": 4532,
     "dailyMinutesDown": {
       "2024-07-29": 69,
       "2024-07-26": 44,
@@ -65,8 +65,7 @@
       "2023-09-05": 166,
       "2023-08-24": 15,
       "2023-08-22": 108,
-      "2023-08-11": 16,
-      "2023-07-31": 589
+      "2023-08-11": 16
     }
   },
   {
@@ -80,10 +79,10 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.15%",
-    "time": 3193,
-    "timeDay": 2086,
-    "timeWeek": 5587,
-    "timeMonth": 4410,
+    "time": 3192,
+    "timeDay": 1838,
+    "timeWeek": 5579,
+    "timeMonth": 4407,
     "timeYear": 3128,
     "dailyMinutesDown": {
       "2024-07-28": 25,
@@ -195,10 +194,10 @@
     "uptimeMonth": "96.04%",
     "uptimeYear": "92.73%",
     "time": 3303,
-    "timeDay": 7070,
-    "timeWeek": 5381,
-    "timeMonth": 4467,
-    "timeYear": 2987,
+    "timeDay": 6991,
+    "timeWeek": 5363,
+    "timeMonth": 4463,
+    "timeYear": 2986,
     "dailyMinutesDown": {
       "2024-07-29": 387,
       "2024-07-27": 20,
@@ -307,12 +306,12 @@
     "uptimeDay": "95.74%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "98.18%",
-    "uptimeYear": "79.30%",
-    "time": 1266,
-    "timeDay": 3782,
-    "timeWeek": 1995,
-    "timeMonth": 2093,
-    "timeYear": 1266,
+    "uptimeYear": "79.37%",
+    "time": 1267,
+    "timeDay": 3947,
+    "timeWeek": 2045,
+    "timeMonth": 2104,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2024-07-29": 61,
       "2024-07-26": 43,
@@ -411,8 +410,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -432,7 +430,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-29": 1156,
+      "2024-07-30": 96,
+      "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -795,8 +794,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -805,16 +803,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "86.34%",
+    "uptime": "86.35%",
     "uptimeDay": "95.77%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "86.34%",
-    "time": 1465,
-    "timeDay": 1300,
-    "timeWeek": 1242,
-    "timeMonth": 1913,
-    "timeYear": 1465,
+    "uptimeYear": "86.35%",
+    "time": 1464,
+    "timeDay": 1149,
+    "timeWeek": 1225,
+    "timeMonth": 1908,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2024-07-29": 61,
       "2024-07-26": 42,
