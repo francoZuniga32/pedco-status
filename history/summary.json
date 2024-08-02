@@ -4,19 +4,20 @@
     "url": "https://faiweb.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
-    "status": "down",
+    "status": "up",
     "uptime": "96.51%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "88.69%",
-    "uptimeYear": "97.00%",
-    "time": 4543,
-    "timeDay": 4469,
-    "timeWeek": 4704,
-    "timeMonth": 5030,
-    "timeYear": 4539,
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "96.99%",
+    "time": 4544,
+    "timeDay": 4362,
+    "timeWeek": 4666,
+    "timeMonth": 5014,
+    "timeYear": 4538,
     "dailyMinutesDown": {
-      "2024-08-01": 0,
+      "2024-08-02": 73,
+      "2024-08-01": 2,
       "2024-07-29": 69,
       "2024-07-26": 44,
       "2024-07-16": 152,
@@ -305,7 +306,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "98.18%",
-    "uptimeYear": "80.17%",
+    "uptimeYear": "80.19%",
     "time": 1264,
     "timeDay": 860,
     "timeWeek": 1671,
@@ -406,8 +407,7 @@
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
-      "2023-08-04": 1440,
-      "2023-08-03": 1440
+      "2023-08-04": 1440
     }
   },
   {
@@ -427,7 +427,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-01": 1438,
+      "2024-08-02": 73,
+      "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
@@ -790,8 +791,7 @@
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
-      "2023-08-04": 1440,
-      "2023-08-03": 1440
+      "2023-08-04": 1440
     }
   },
   {
@@ -799,19 +799,20 @@
     "url": "https://cefai.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
-    "status": "down",
-    "uptime": "86.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.49%",
+    "status": "up",
+    "uptime": "86.44%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "86.51%",
-    "time": 1460,
+    "time": 1459,
     "timeDay": 1159,
-    "timeWeek": 1168,
-    "timeMonth": 1871,
-    "timeYear": 1460,
+    "timeWeek": 1167,
+    "timeMonth": 1858,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2024-08-01": 0,
+      "2024-08-02": 73,
+      "2024-08-01": 2,
       "2024-07-29": 61,
       "2024-07-26": 42,
       "2024-07-16": 152,
@@ -894,8 +895,7 @@
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
-      "2023-08-04": 1440,
-      "2023-08-03": 1440
+      "2023-08-04": 1440
     }
   }
 ]
