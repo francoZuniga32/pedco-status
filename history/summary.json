@@ -6,10 +6,10 @@
     "slug": "fai-web",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 4628,
     "timeDay": 15312,
     "timeWeek": 6507,
@@ -52,8 +52,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   },
   {
@@ -63,10 +62,10 @@
     "slug": "pedco",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 3202,
     "timeDay": 3070,
     "timeWeek": 4448,
@@ -109,8 +108,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   },
   {
@@ -118,14 +116,14 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
-    "time": 3235,
-    "timeDay": 6433,
+    "uptimeYear": "97.81%",
+    "time": 3237,
+    "timeDay": 5971,
     "timeWeek": 3778,
     "timeMonth": 4504,
     "timeYear": 2977,
@@ -166,8 +164,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   },
   {
@@ -177,10 +174,10 @@
     "slug": "debian-fai",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 1259,
     "timeDay": 2726,
     "timeWeek": 1170,
@@ -223,8 +220,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   },
   {
@@ -234,10 +230,10 @@
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -280,8 +276,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   },
   {
@@ -291,17 +286,17 @@
     "slug": "prueba-error",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "82.10%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "88.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 1458,
     "timeDay": 2984,
     "timeWeek": 1342,
     "timeMonth": 1453,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2024-08-08": 17,
+      "2024-08-08": 18,
       "2024-08-07": 364,
       "2024-08-06": 135,
       "2024-08-05": 747,
@@ -337,8 +332,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395,
-      "2024-06-23": 19
+      "2024-06-24": 395
     }
   }
 ]
