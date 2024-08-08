@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "64.52%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.74%",
     "time": 4628,
     "timeDay": 15312,
     "timeWeek": 6507,
@@ -52,7 +52,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "64.52%",
+    "uptime": "99.02%",
+    "uptimeDay": "64.51%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.74%",
     "time": 3202,
     "timeDay": 3070,
     "timeWeek": 4448,
@@ -108,7 +108,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   },
   {
@@ -116,13 +116,13 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "64.52%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "64.51%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
-    "time": 3248,
+    "uptimeYear": "97.74%",
+    "time": 3249,
     "timeDay": 7830,
     "timeWeek": 4085,
     "timeMonth": 4574,
@@ -164,7 +164,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   },
   {
@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "64.52%",
+    "uptime": "99.02%",
+    "uptimeDay": "64.50%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.74%",
     "time": 1259,
     "timeDay": 2726,
     "timeWeek": 1170,
@@ -220,7 +220,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   },
   {
@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "64.52%",
+    "uptime": "98.16%",
+    "uptimeDay": "64.50%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -276,7 +276,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   },
   {
@@ -285,11 +285,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "64.52%",
+    "uptime": "97.79%",
+    "uptimeDay": "64.50%",
     "uptimeWeek": "79.98%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.74%",
     "time": 1458,
     "timeDay": 2984,
     "timeWeek": 1342,
@@ -332,7 +332,7 @@
       "2024-06-27": 48,
       "2024-06-26": 26,
       "2024-06-25": 29,
-      "2024-06-24": 395
+      "2024-06-24": 265
     }
   }
 ]
