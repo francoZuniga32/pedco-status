@@ -8,13 +8,13 @@
     "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.22%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "96.99%",
     "time": 4568,
-    "timeDay": 4228,
-    "timeWeek": 4634,
-    "timeMonth": 5260,
-    "timeYear": 4570,
+    "timeDay": 4543,
+    "timeWeek": 4473,
+    "timeMonth": 5262,
+    "timeYear": 4573,
     "dailyMinutesDown": {
       "2024-08-02": 73,
       "2024-08-01": 2,
@@ -76,17 +76,16 @@
     "slug": "pedco",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "99.14%",
     "time": 3189,
-    "timeDay": 2060,
-    "timeWeek": 1978,
-    "timeMonth": 3394,
+    "timeDay": 1830,
+    "timeWeek": 1922,
+    "timeMonth": 3390,
     "timeYear": 3071,
     "dailyMinutesDown": {
-      "2024-08-16": 14,
       "2024-08-13": 37,
       "2024-08-12": 31,
       "2024-08-11": 25,
@@ -180,7 +179,8 @@
       "2024-04-03": 21,
       "2024-04-02": 26,
       "2024-04-01": 25,
-      "2024-03-31": 24
+      "2024-03-31": 24,
+      "2024-03-30": 23
     }
   },
   {
@@ -190,14 +190,14 @@
     "slug": "siu-guarani",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "87.12%",
-    "uptimeMonth": "90.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.29%",
+    "uptimeMonth": "91.11%",
     "uptimeYear": "98.38%",
     "time": 3220,
-    "timeDay": 2258,
-    "timeWeek": 4049,
-    "timeMonth": 4192,
+    "timeDay": 2035,
+    "timeWeek": 4316,
+    "timeMonth": 4045,
     "timeYear": 2952,
     "dailyMinutesDown": {
       "2024-08-15": 63,
@@ -272,16 +272,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "83.10%",
+    "uptime": "83.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "84.11%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "84.30%",
     "time": 1249,
-    "timeDay": 894,
-    "timeWeek": 1007,
-    "timeMonth": 1342,
-    "timeYear": 1258,
+    "timeDay": 887,
+    "timeWeek": 955,
+    "timeMonth": 1325,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2024-07-29": 61,
       "2024-07-26": 43,
@@ -362,8 +362,7 @@
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
-      "2023-08-19": 1440,
-      "2023-08-18": 1440
+      "2023-08-19": 1440
     }
   },
   {
@@ -383,7 +382,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-16": 514,
+      "2024-08-17": 95,
+      "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -746,8 +746,7 @@
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
-      "2023-08-19": 1440,
-      "2023-08-18": 1440
+      "2023-08-19": 1440
     }
   },
   {
@@ -756,15 +755,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "86.95%",
+    "uptime": "86.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "90.43%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "90.62%",
     "time": 1453,
-    "timeDay": 1204,
-    "timeWeek": 1089,
-    "timeMonth": 1205,
+    "timeDay": 1195,
+    "timeWeek": 1117,
+    "timeMonth": 1203,
     "timeYear": 1453,
     "dailyMinutesDown": {
       "2024-08-02": 73,
@@ -836,8 +835,7 @@
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
-      "2023-08-19": 1440,
-      "2023-08-18": 1440
+      "2023-08-19": 1440
     }
   }
 ]
