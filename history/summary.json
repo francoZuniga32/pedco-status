@@ -6,17 +6,17 @@
     "slug": "fai-web",
     "status": "up",
     "uptime": "96.58%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "96.96%",
-    "time": 4606,
-    "timeDay": 7465,
-    "timeWeek": 5586,
-    "timeMonth": 5486,
-    "timeYear": 4603,
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "96.97%",
+    "time": 4612,
+    "timeDay": 8028,
+    "timeWeek": 5886,
+    "timeMonth": 5574,
+    "timeYear": 4611,
     "dailyMinutesDown": {
-      "2024-08-23": 24,
+      "2024-08-23": 16,
       "2024-08-19": 217,
       "2024-08-02": 73,
       "2024-08-01": 2,
@@ -80,11 +80,11 @@
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.13%",
-    "time": 3206,
-    "timeDay": 2002,
-    "timeWeek": 2875,
-    "timeMonth": 3641,
-    "timeYear": 3084,
+    "time": 3216,
+    "timeDay": 6141,
+    "timeWeek": 3481,
+    "timeMonth": 3777,
+    "timeYear": 3095,
     "dailyMinutesDown": {
       "2024-08-23": 38,
       "2024-08-22": 29,
@@ -195,10 +195,10 @@
     "uptimeMonth": "91.00%",
     "uptimeYear": "98.39%",
     "time": 3219,
-    "timeDay": 1943,
-    "timeWeek": 1965,
-    "timeMonth": 3956,
-    "timeYear": 2949,
+    "timeDay": 2028,
+    "timeWeek": 1949,
+    "timeMonth": 3957,
+    "timeYear": 2948,
     "dailyMinutesDown": {
       "2024-08-23": 27,
       "2024-08-17": 18,
@@ -278,12 +278,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "86.10%",
-    "time": 1249,
-    "timeDay": 1266,
-    "timeWeek": 1091,
-    "timeMonth": 1345,
-    "timeYear": 1254,
+    "uptimeYear": "86.22%",
+    "time": 1257,
+    "timeDay": 2871,
+    "timeWeek": 1542,
+    "timeMonth": 1455,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2024-07-29": 61,
       "2024-07-26": 43,
@@ -357,8 +357,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -378,7 +377,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 898,
+      "2024-08-24": 96,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -741,8 +741,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -751,16 +750,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "87.20%",
+    "uptime": "87.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "92.42%",
-    "time": 1450,
-    "timeDay": 1700,
-    "timeWeek": 1285,
-    "timeMonth": 1237,
-    "timeYear": 1450,
+    "uptimeYear": "92.54%",
+    "time": 1451,
+    "timeDay": 1782,
+    "timeWeek": 1372,
+    "timeMonth": 1256,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2024-08-02": 73,
       "2024-08-01": 2,
@@ -824,8 +823,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   }
 ]
