@@ -73,18 +73,19 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "99.43%",
-    "time": 3076,
+    "uptimeYear": "99.44%",
+    "time": 3078,
     "timeDay": 1956,
     "timeWeek": 1944,
     "timeMonth": 2563,
     "timeYear": 3132,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-11-15": 15,
       "2024-11-14": 16,
       "2024-11-13": 34,
@@ -178,8 +179,7 @@
       "2024-06-11": 28,
       "2024-06-09": 22,
       "2024-06-08": 22,
-      "2024-06-07": 28,
-      "2024-06-06": 35
+      "2024-06-07": 28
     }
   },
   {
@@ -187,18 +187,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "94.38%",
-    "time": 2926,
-    "timeDay": 2325,
-    "timeWeek": 2091,
-    "timeMonth": 3357,
+    "time": 2927,
+    "timeDay": 2436,
+    "timeWeek": 2148,
+    "timeMonth": 3335,
     "timeYear": 3070,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-11-06": 20,
       "2024-11-04": 34,
       "2024-10-28": 23,
@@ -285,7 +286,7 @@
       "2024-04-26": 20,
       "2024-04-25": 66,
       "2024-04-21": 852,
-      "2024-04-20": 353
+      "2024-04-20": 336
     }
   },
   {
@@ -354,7 +355,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 112,
+      "2024-11-16": 483,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -729,7 +730,7 @@
     "status": "up",
     "uptime": "84.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.78%",
+    "uptimeWeek": "63.45%",
     "uptimeMonth": "16.47%",
     "uptimeYear": "92.10%",
     "time": 1447,
