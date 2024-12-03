@@ -10,11 +10,11 @@
     "uptimeWeek": "91.66%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "98.05%",
-    "time": 4804,
-    "timeDay": 6269,
-    "timeWeek": 5915,
-    "timeMonth": 5351,
-    "timeYear": 4895,
+    "time": 4805,
+    "timeDay": 5055,
+    "timeWeek": 5858,
+    "timeMonth": 5339,
+    "timeYear": 4898,
     "dailyMinutesDown": {
       "2024-11-30": 774,
       "2024-11-29": 67,
@@ -79,10 +79,10 @@
     "uptimeWeek": "98.59%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.45%",
-    "time": 3069,
-    "timeDay": 2090,
-    "timeWeek": 2991,
-    "timeMonth": 2978,
+    "time": 3067,
+    "timeDay": 1981,
+    "timeWeek": 2983,
+    "timeMonth": 2970,
     "timeYear": 3084,
     "dailyMinutesDown": {
       "2024-12-02": 16,
@@ -189,17 +189,17 @@
     "slug": "siu-guarani",
     "status": "up",
     "uptime": "97.94%",
-    "uptimeDay": "78.05%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "94.57%",
-    "time": 2951,
-    "timeDay": 5161,
-    "timeWeek": 3648,
-    "timeMonth": 3714,
-    "timeYear": 3081,
+    "uptimeDay": "78.71%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "94.56%",
+    "time": 2952,
+    "timeDay": 5067,
+    "timeWeek": 3684,
+    "timeMonth": 3716,
+    "timeYear": 3080,
     "dailyMinutesDown": {
-      "2024-12-02": 316,
+      "2024-12-02": 307,
       "2024-11-21": 26,
       "2024-11-16": 27,
       "2024-11-06": 20,
@@ -281,7 +281,8 @@
       "2024-05-22": 25,
       "2024-05-20": 88,
       "2024-05-19": 17,
-      "2024-05-14": 23
+      "2024-05-14": 23,
+      "2024-05-12": 19
     }
   },
   {
@@ -296,10 +297,10 @@
     "uptimeMonth": "97.87%",
     "uptimeYear": "98.97%",
     "time": 1273,
-    "timeDay": 1190,
-    "timeWeek": 1387,
-    "timeMonth": 1222,
-    "timeYear": 1310,
+    "timeDay": 1292,
+    "timeWeek": 1412,
+    "timeMonth": 1220,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2024-11-30": 774,
       "2024-11-29": 66,
@@ -350,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-02": 1302,
+      "2024-12-03": 118,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -713,8 +715,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -723,15 +724,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "84.51%",
+    "uptime": "84.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.67%",
-    "uptimeMonth": "68.49%",
+    "uptimeMonth": "69.08%",
     "uptimeYear": "92.00%",
-    "time": 1446,
-    "timeDay": 1399,
-    "timeWeek": 1431,
-    "timeMonth": 1399,
+    "time": 1445,
+    "timeDay": 1277,
+    "timeWeek": 1418,
+    "timeMonth": 1394,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2024-11-30": 774,
@@ -796,8 +797,7 @@
       "2024-01-30": 68,
       "2024-01-12": 24,
       "2023-12-18": 23,
-      "2023-12-07": 27,
-      "2023-12-04": 28
+      "2023-12-07": 27
     }
   }
 ]
