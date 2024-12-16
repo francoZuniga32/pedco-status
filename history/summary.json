@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 108,
+      "2024-12-16": 122,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -734,7 +734,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "prueba-error",
     "status": "up",
-    "uptime": "84.87%",
+    "uptime": "84.88%",
     "uptimeDay": "87.27%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "97.34%",
