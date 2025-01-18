@@ -6,15 +6,15 @@
     "slug": "fai-web",
     "status": "up",
     "uptime": "95.71%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "22.90%",
+    "uptimeWeek": "3.27%",
     "uptimeMonth": "46.13%",
     "uptimeYear": "93.51%",
-    "time": 4900,
-    "timeDay": 4741,
-    "timeWeek": 4741,
-    "timeMonth": 5622,
-    "timeYear": 5001,
+    "time": 4898,
+    "timeDay": 5140,
+    "timeWeek": 5140,
+    "timeMonth": 5569,
+    "timeYear": 5003,
     "dailyMinutesDown": {
       "2025-01-17": 1212,
       "2025-01-16": 1440,
@@ -83,8 +83,7 @@
       "2024-02-07": 64,
       "2024-02-01": 406,
       "2024-01-31": 94,
-      "2024-01-30": 69,
-      "2024-01-19": 15
+      "2024-01-30": 69
     }
   },
   {
@@ -99,9 +98,9 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.57%",
     "time": 3065,
-    "timeDay": 1882,
-    "timeWeek": 3758,
-    "timeMonth": 2804,
+    "timeDay": 1814,
+    "timeWeek": 3752,
+    "timeMonth": 2796,
     "timeYear": 3038,
     "dailyMinutesDown": {
       "2025-01-17": 31,
@@ -216,10 +215,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "94.56%",
     "time": 2964,
-    "timeDay": 1930,
-    "timeWeek": 1958,
-    "timeMonth": 2132,
-    "timeYear": 3064,
+    "timeDay": 1983,
+    "timeWeek": 1948,
+    "timeMonth": 2131,
+    "timeYear": 3062,
     "dailyMinutesDown": {
       "2025-01-03": 36,
       "2024-12-29": 21,
@@ -318,10 +317,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 1264,
-    "timeDay": 1104,
-    "timeWeek": 1197,
-    "timeMonth": 1169,
-    "timeYear": 1309,
+    "timeDay": 1092,
+    "timeWeek": 1174,
+    "timeMonth": 1179,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2024-12-16": 108,
       "2024-12-15": 75,
@@ -375,7 +374,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 1213,
+      "2025-01-18": 102,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -738,8 +738,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -753,11 +752,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "91.95%",
-    "time": 1413,
-    "timeDay": 862,
-    "timeWeek": 1206,
-    "timeMonth": 1326,
-    "timeYear": 1381,
+    "time": 1411,
+    "timeDay": 1288,
+    "timeWeek": 1193,
+    "timeMonth": 1322,
+    "timeYear": 1380,
     "dailyMinutesDown": {
       "2025-01-01": 17,
       "2024-12-16": 108,
