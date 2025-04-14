@@ -213,18 +213,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "93.04%",
-    "time": 3092,
-    "timeDay": 2229,
-    "timeWeek": 2375,
-    "timeMonth": 2473,
-    "timeYear": 3059,
+    "time": 3091,
+    "timeDay": 2047,
+    "timeWeek": 2302,
+    "timeMonth": 2457,
+    "timeYear": 3057,
     "dailyMinutesDown": {
+      "2025-04-14": 0,
       "2025-03-31": 370,
       "2025-03-30": 23,
       "2025-03-24": 17,
@@ -310,7 +311,7 @@
       "2024-08-10": 22,
       "2024-08-09": 17,
       "2024-08-08": 528,
-      "2024-08-07": 364
+      "2024-08-07": 340
     }
   },
   {
@@ -378,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-14": 529,
+      "2025-04-14": 617,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
