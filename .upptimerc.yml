@@ -11,9 +11,7 @@ sites:
     url: https://siufai.uncoma.edu.ar/informatica
   - name: Debian FAI
     url: http://debianfai.fi.uncoma.edu.ar/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: prueba error
+  - name: CEFAI
     url: https://cefai.fi.uncoma.edu.ar/
 
 status-website:
