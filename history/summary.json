@@ -8,7 +8,7 @@
     "uptime": "94.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.60%",
+    "uptimeMonth": "53.58%",
     "uptimeYear": "89.40%",
     "time": 5250,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 6829,
     "timeYear": 5501,
     "dailyMinutesDown": {
-      "2025-05-01": 824,
+      "2025-05-01": 832,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -380,19 +380,19 @@
     "url": "https://cefai.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1346,
-    "timeDay": 1691,
-    "timeWeek": 1346,
-    "timeMonth": 1346,
-    "timeYear": 1346,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1339,
+    "timeDay": 1498,
+    "timeWeek": 1339,
+    "timeMonth": 1339,
+    "timeYear": 1339,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 8
     }
   }
 ]
