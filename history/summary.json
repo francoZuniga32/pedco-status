@@ -8,8 +8,8 @@
     "uptime": "91.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "78.48%",
+    "uptimeMonth": "82.61%",
+    "uptimeYear": "78.49%",
     "time": 5349,
     "timeDay": 5104,
     "timeWeek": 5039,
@@ -140,10 +140,10 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.43%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.47%",
     "time": 2960,
@@ -152,6 +152,7 @@
     "timeMonth": 2485,
     "timeYear": 2918,
     "dailyMinutesDown": {
+      "2025-07-05": 0,
       "2025-07-04": 20,
       "2025-07-03": 20,
       "2025-07-02": 29,
@@ -247,8 +248,7 @@
       "2025-03-25": 16,
       "2025-03-24": 19,
       "2025-03-23": 17,
-      "2025-03-22": 27,
-      "2025-03-21": 18
+      "2025-03-22": 27
     }
   },
   {
@@ -256,18 +256,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "98.53%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 2878,
-    "timeDay": 2182,
-    "timeWeek": 2030,
-    "timeMonth": 2264,
-    "timeYear": 2890,
+    "timeDay": 2012,
+    "timeWeek": 2021,
+    "timeMonth": 2259,
+    "timeYear": 2888,
     "dailyMinutesDown": {
+      "2025-07-05": 0,
       "2025-07-03": 29,
       "2025-07-02": 53,
       "2025-06-30": 23,
@@ -342,7 +343,7 @@
       "2025-02-16": 26,
       "2025-02-13": 477,
       "2025-02-12": 100,
-      "2025-02-10": 75
+      "2025-02-10": 28
     }
   },
   {
