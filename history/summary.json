@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "92.05%",
+    "uptime": "92.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "91.66%",
@@ -139,18 +139,19 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.77%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "98.63%",
-    "uptimeYear": "99.51%",
-    "time": 2831,
+    "uptimeYear": "99.52%",
+    "time": 2800,
     "timeDay": 1841,
     "timeWeek": 2450,
     "timeMonth": 2453,
     "timeYear": 2703,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-29": 18,
       "2025-08-28": 17,
       "2025-08-26": 24,
@@ -247,8 +248,7 @@
       "2025-05-11": 21,
       "2025-05-10": 21,
       "2025-05-09": 18,
-      "2025-05-08": 26,
-      "2025-05-06": 17
+      "2025-05-08": 26
     }
   },
   {
