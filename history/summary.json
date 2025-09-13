@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "92.14%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.71%",
@@ -135,10 +135,10 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "98.51%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "98.53%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.52%",
     "time": 2832,
@@ -147,6 +147,7 @@
     "timeMonth": 3198,
     "timeYear": 2747,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-09-12": 20,
       "2025-09-11": 16,
       "2025-09-10": 17,
@@ -243,8 +244,7 @@
       "2025-05-26": 89,
       "2025-05-25": 16,
       "2025-05-24": 22,
-      "2025-05-22": 24,
-      "2025-05-21": 26
+      "2025-05-22": 24
     }
   },
   {
@@ -252,18 +252,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 2729,
-    "timeDay": 4560,
-    "timeWeek": 3647,
-    "timeMonth": 3022,
-    "timeYear": 2625,
+    "timeDay": 3924,
+    "timeWeek": 3557,
+    "timeMonth": 3009,
+    "timeYear": 2623,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-09-12": 20,
       "2025-09-11": 16,
       "2025-09-10": 25,
@@ -346,8 +347,7 @@
       "2025-03-31": 370,
       "2025-03-30": 23,
       "2025-03-24": 17,
-      "2025-03-14": 25,
-      "2025-03-13": 47
+      "2025-03-14": 25
     }
   },
   {
@@ -356,7 +356,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianfai.fi.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "up",
-    "uptime": "87.88%",
+    "uptime": "87.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.95%",
