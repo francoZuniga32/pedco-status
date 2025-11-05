@@ -1,7 +1,7 @@
 url: https://siufai.uncoma.edu.ar/informatica
-status: up
-code: 200
-responseTime: 1835
-lastUpdated: 2025-11-05T08:42:15.796Z
+status: down
+code: 500
+responseTime: 1966
+lastUpdated: 2025-11-05T15:09:42.450Z
 startTime: 2022-04-17T02:28:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
