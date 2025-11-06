@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "92.52%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.40%",
+    "uptime": "92.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "78.72%",
     "time": 5906,
     "timeDay": 5585,
@@ -16,7 +16,6 @@
     "timeMonth": 5795,
     "timeYear": 6010,
     "dailyMinutesDown": {
-      "2025-11-06": 12,
       "2025-10-24": 20,
       "2025-10-22": 88,
       "2025-10-21": 146,
@@ -137,10 +136,10 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.53%",
     "time": 2768,
@@ -149,6 +148,7 @@
     "timeMonth": 2506,
     "timeYear": 2727,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-05": 28,
       "2025-11-04": 20,
       "2025-11-03": 25,
@@ -245,8 +245,7 @@
       "2025-07-12": 24,
       "2025-07-11": 22,
       "2025-07-10": 19,
-      "2025-07-08": 22,
-      "2025-07-07": 27
+      "2025-07-08": 22
     }
   },
   {
@@ -254,18 +253,19 @@
     "url": "https://siufai.uncoma.edu.ar/informatica",
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "96.60%",
+    "uptimeDay": "96.58%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "95.95%",
-    "uptimeYear": "99.08%",
-    "time": 2627,
-    "timeDay": 2134,
-    "timeWeek": 2042,
-    "timeMonth": 2009,
-    "timeYear": 2640,
+    "uptimeYear": "99.09%",
+    "time": 2626,
+    "timeDay": 2103,
+    "timeWeek": 2036,
+    "timeMonth": 2008,
+    "timeYear": 2639,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-05": 49,
       "2025-11-04": 21,
       "2025-11-01": 15,
@@ -347,8 +347,7 @@
       "2025-05-29": 27,
       "2025-05-28": 23,
       "2025-05-23": 31,
-      "2025-05-21": 31,
-      "2025-05-20": 31
+      "2025-05-21": 31
     }
   },
   {
