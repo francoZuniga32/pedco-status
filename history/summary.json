@@ -4,9 +4,9 @@
     "url": "https://faiweb.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/faiweb.uncoma.edu.ar.ico",
     "slug": "fai-web",
-    "status": "up",
-    "uptime": "92.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "78.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 5876,
     "timeYear": 6031,
     "dailyMinutesDown": {
+      "2025-11-09": 0,
       "2025-10-24": 20,
       "2025-10-22": 88,
       "2025-10-21": 146,
@@ -254,17 +255,17 @@
     "slug": "siu-guarani",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "99.08%",
     "time": 2691,
     "timeDay": 2055,
     "timeWeek": 2063,
     "timeMonth": 2012,
     "timeYear": 2584,
     "dailyMinutesDown": {
-      "2025-11-09": 42,
+      "2025-11-09": 29,
       "2025-11-08": 19,
       "2025-11-07": 45,
       "2025-11-06": 33,
@@ -344,7 +345,8 @@
       "2025-06-07": 40,
       "2025-06-06": 47,
       "2025-06-04": 35,
-      "2025-06-03": 49
+      "2025-06-03": 49,
+      "2025-06-01": 20
     }
   },
   {
