@@ -1,7 +1,7 @@
 url: http://debianfai.fi.uncoma.edu.ar/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-30T23:11:38.094Z
+status: up
+code: 200
+responseTime: 2256
+lastUpdated: 2025-12-01T10:42:10.325Z
 startTime: 2022-04-17T02:28:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
