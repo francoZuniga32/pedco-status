@@ -231,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siufai.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
     "status": "down",
-    "uptime": "17.27%",
-    "uptimeDay": "17.27%",
-    "uptimeWeek": "17.27%",
-    "uptimeMonth": "17.27%",
-    "uptimeYear": "17.27%",
+    "uptime": "11.37%",
+    "uptimeDay": "11.37%",
+    "uptimeWeek": "11.37%",
+    "uptimeMonth": "11.37%",
+    "uptimeYear": "11.37%",
     "time": 2035,
     "timeDay": 2035,
     "timeWeek": 2035,
     "timeMonth": 2035,
     "timeYear": 2035,
     "dailyMinutesDown": {
-      "2026-02-20": 0
+      "2026-02-20": 1
     }
   },
   {
