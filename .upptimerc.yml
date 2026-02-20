@@ -4,13 +4,13 @@ repo: pedco-status # The name of this repository
 
 sites:
   - name: FAI-web
-    url: https://faiweb.uncoma.edu.ar/
+    url: https://www.fi.uncoma.edu.ar/
   - name: PEDCO
     url: https://pedco.uncoma.edu.ar/
-  - name: SIU Guarani
+  - name: SIU Guarani - FAI
     url: https://siufai.uncoma.edu.ar/informatica
   - name: Debian FAI
-    url: http://debianfai.fi.uncoma.edu.ar/
+    url: https://wguarani.uncoma.edu.ar/autogestion/
   - name: CEFAI
     url: https://cefai.fi.uncoma.edu.ar/
 
