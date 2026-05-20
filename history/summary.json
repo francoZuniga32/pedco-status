@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fi.uncoma.edu.ar.ico",
     "slug": "fai-web",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.09%",
-    "time": 5624,
-    "timeDay": 3383,
-    "timeWeek": 3621,
-    "timeMonth": 3896,
-    "timeYear": 5480,
+    "uptimeYear": "92.28%",
+    "time": 5620,
+    "timeDay": 3556,
+    "timeWeek": 3632,
+    "timeMonth": 3885,
+    "timeYear": 5476,
     "dailyMinutesDown": {
       "2026-04-16": 67,
       "2026-04-06": 479,
@@ -71,8 +71,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -87,9 +86,9 @@
     "uptimeMonth": "97.01%",
     "uptimeYear": "98.49%",
     "time": 2369,
-    "timeDay": 2816,
-    "timeWeek": 2580,
-    "timeMonth": 2070,
+    "timeDay": 2840,
+    "timeWeek": 2588,
+    "timeMonth": 2065,
     "timeYear": 2375,
     "dailyMinutesDown": {
       "2026-05-19": 181,
@@ -206,13 +205,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2002,
-    "timeDay": 1968,
-    "timeWeek": 1789,
-    "timeMonth": 1955,
-    "timeYear": 2002,
+    "time": 2001,
+    "timeDay": 1964,
+    "timeWeek": 1763,
+    "timeMonth": 1943,
+    "timeYear": 2001,
     "dailyMinutesDown": {
-      "2026-05-19": 706,
+      "2026-05-20": 259,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -315,10 +315,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.45%",
     "time": 2426,
-    "timeDay": 1176,
-    "timeWeek": 1141,
-    "timeMonth": 1225,
-    "timeYear": 2898,
+    "timeDay": 1066,
+    "timeWeek": 1149,
+    "timeMonth": 1214,
+    "timeYear": 2897,
     "dailyMinutesDown": {
       "2026-04-16": 66,
       "2026-04-06": 479,
@@ -347,8 +347,7 @@
       "2025-07-20": 129,
       "2025-07-16": 58,
       "2025-06-15": 18,
-      "2025-05-31": 62,
-      "2025-05-20": 41
+      "2025-05-31": 62
     }
   },
   {
@@ -357,16 +356,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
     "status": "up",
-    "uptime": "92.02%",
+    "uptime": "92.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "91.53%",
-    "time": 1717,
-    "timeDay": 1084,
-    "timeWeek": 2092,
-    "timeMonth": 1756,
-    "timeYear": 1747,
+    "time": 1716,
+    "timeDay": 1152,
+    "timeWeek": 2115,
+    "timeMonth": 1750,
+    "timeYear": 1748,
     "dailyMinutesDown": {
       "2026-04-20": 54,
       "2026-04-16": 65,
@@ -421,8 +420,7 @@
       "2025-07-20": 129,
       "2025-07-16": 58,
       "2025-06-11": 19,
-      "2025-05-31": 45,
-      "2025-05-20": 39
+      "2025-05-31": 45
     }
   }
 ]
