@@ -189,7 +189,7 @@
     "timeMonth": 2013,
     "timeYear": 2005,
     "dailyMinutesDown": {
-      "2026-06-18": 1114,
+      "2026-06-18": 1381,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -360,17 +360,17 @@
     "url": "https://cefai.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
-    "status": "down",
-    "uptime": "91.39%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.37%",
-    "uptimeYear": "90.17%",
-    "time": 1692,
-    "timeDay": 1165,
-    "timeWeek": 1237,
-    "timeMonth": 1373,
-    "timeYear": 1688,
+    "status": "up",
+    "uptime": "91.35%",
+    "uptimeDay": "81.43%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "82.76%",
+    "uptimeYear": "90.12%",
+    "time": 1690,
+    "timeDay": 1107,
+    "timeWeek": 1210,
+    "timeMonth": 1362,
+    "timeYear": 1686,
     "dailyMinutesDown": {
       "2025-07-16": 58,
       "2025-07-20": 129,
@@ -430,7 +430,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1104,
-      "2026-06-18": 0
+      "2026-06-18": 267
     }
   }
 ]
