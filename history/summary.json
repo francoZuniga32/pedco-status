@@ -189,7 +189,7 @@
     "timeMonth": 2061,
     "timeYear": 2013,
     "dailyMinutesDown": {
-      "2026-06-23": 731,
+      "2026-06-23": 923,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -320,17 +320,17 @@
     "url": "https://wguarani.uncoma.edu.ar/autogestion/",
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "debian-fai",
-    "status": "down",
-    "uptime": "90.14%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.47%",
-    "time": 2427,
-    "timeDay": 945,
-    "timeWeek": 1204,
-    "timeMonth": 1151,
-    "timeYear": 2675,
+    "status": "up",
+    "uptime": "90.13%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "97.44%",
+    "time": 2426,
+    "timeDay": 913,
+    "timeWeek": 1164,
+    "timeMonth": 1142,
+    "timeYear": 2671,
     "dailyMinutesDown": {
       "2025-07-16": 58,
       "2025-07-20": 129,
@@ -358,7 +358,7 @@
       "2026-04-05": 1440,
       "2026-04-04": 741,
       "2026-04-16": 66,
-      "2026-06-23": 0
+      "2026-06-23": 192
     }
   },
   {
