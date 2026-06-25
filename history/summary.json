@@ -12,7 +12,7 @@
     "uptimeYear": "98.15%",
     "time": 5542,
     "timeDay": 8838,
-    "timeWeek": 4606,
+    "timeWeek": 4708,
     "timeMonth": 4856,
     "timeYear": 5403,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
     "uptimeYear": "98.40%",
     "time": 2350,
     "timeDay": 1943,
-    "timeWeek": 1952,
+    "timeWeek": 1960,
     "timeMonth": 1957,
     "timeYear": 2334,
     "dailyMinutesDown": {
@@ -185,11 +185,12 @@
     "uptimeYear": "0.00%",
     "time": 2014,
     "timeDay": 1857,
-    "timeWeek": 2136,
+    "timeWeek": 2154,
     "timeMonth": 2089,
     "timeYear": 2014,
     "dailyMinutesDown": {
-      "2026-06-24": 1439,
+      "2026-06-25": 111,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -329,7 +330,7 @@
     "uptimeYear": "97.44%",
     "time": 2427,
     "timeDay": 1656,
-    "timeWeek": 1244,
+    "timeWeek": 1249,
     "timeMonth": 1167,
     "timeYear": 2667,
     "dailyMinutesDown": {
@@ -367,17 +368,17 @@
     "url": "https://cefai.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
-    "status": "down",
-    "uptime": "91.25%",
-    "uptimeDay": "11.74%",
-    "uptimeWeek": "83.92%",
-    "uptimeMonth": "79.67%",
-    "uptimeYear": "89.86%",
-    "time": 1680,
-    "timeDay": 1174,
-    "timeWeek": 1164,
-    "timeMonth": 1249,
-    "timeYear": 1684,
+    "status": "up",
+    "uptime": "91.23%",
+    "uptimeDay": "11.75%",
+    "uptimeWeek": "82.81%",
+    "uptimeMonth": "79.42%",
+    "uptimeYear": "89.84%",
+    "time": 1678,
+    "timeDay": 1161,
+    "timeWeek": 1159,
+    "timeMonth": 1246,
+    "timeYear": 1682,
     "dailyMinutesDown": {
       "2025-07-16": 58,
       "2025-07-20": 129,
@@ -438,8 +439,9 @@
       "2026-06-07": 1440,
       "2026-06-06": 1104,
       "2026-06-18": 267,
-      "2026-06-24": 1270,
-      "2026-06-23": 84
+      "2026-06-24": 1271,
+      "2026-06-23": 84,
+      "2026-06-25": 111
     }
   }
 ]
