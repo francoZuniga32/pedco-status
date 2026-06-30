@@ -57,19 +57,18 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.35%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.32%",
     "time": 2306,
-    "timeDay": 1249,
-    "timeWeek": 1883,
-    "timeMonth": 1918,
+    "timeDay": 1466,
+    "timeWeek": 1884,
+    "timeMonth": 1917,
     "timeYear": 2297,
     "dailyMinutesDown": {
-      "2025-12-28": 20,
       "2025-12-29": 27,
       "2025-12-30": 21,
       "2026-01-01": 24,
@@ -169,7 +168,8 @@
       "2026-05-29": 189,
       "2026-06-24": 167,
       "2026-06-25": 161,
-      "2026-06-26": 168
+      "2026-06-26": 168,
+      "2026-06-30": 166
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 2041,
     "timeYear": 2006,
     "dailyMinutesDown": {
-      "2026-06-30": 528,
+      "2026-06-30": 695,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
