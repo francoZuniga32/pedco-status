@@ -8,7 +8,7 @@ sites:
   - name: PEDCO
     url: https://pedco.uncoma.edu.ar/
   - name: SIU Guarani - FAI
-    url: https://siufai.uncoma.edu.ar/informatica
+    url: https://wguarani.uncoma.edu.ar/
   - name: Debian FAI
     url: https://wguarani.uncoma.edu.ar/autogestion/
   - name: CEFAI
