@@ -1,7 +1,7 @@
 url: https://pedco.uncoma.edu.ar/
-status: up
-code: 200
-responseTime: 2232
-lastUpdated: 2026-08-18T23:12:21.963Z
+status: down
+code: 502
+responseTime: 654
+lastUpdated: 2026-08-19T08:20:42.711Z
 startTime: 2022-04-17T02:20:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
