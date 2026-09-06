@@ -4,11 +4,11 @@
     "url": "https://www.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fi.uncoma.edu.ar.ico",
     "slug": "fai-web",
-    "status": "up",
+    "status": "down",
     "uptime": "94.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "98.69%",
     "time": 5149,
     "timeDay": 2479,
@@ -43,7 +43,8 @@
       "2026-07-26": 64,
       "2026-08-03": 69,
       "2026-08-02": 785,
-      "2026-08-11": 49
+      "2026-08-11": 49,
+      "2026-09-06": 7
     }
   },
   {
@@ -52,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.03%",
+    "uptime": "99.53%",
+    "uptimeDay": "67.85%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.94%",
     "time": 2242,
     "timeDay": 1657,
     "timeWeek": 1988,
     "timeMonth": 1814,
-    "timeYear": 2133,
+    "timeYear": 2129,
     "dailyMinutesDown": {
       "2026-02-07": 30,
       "2026-02-08": 29,
@@ -163,7 +164,7 @@
       "2026-08-23": 30,
       "2026-08-24": 43,
       "2026-08-26": 49,
-      "2026-09-06": 0
+      "2026-09-06": 463
     }
   },
   {
@@ -171,12 +172,12 @@
     "url": "https://wguarani.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
-    "status": "up",
-    "uptime": "19.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "19.69%",
+    "status": "down",
+    "uptime": "19.81%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "19.81%",
     "time": 2161,
     "timeDay": 3042,
     "timeWeek": 3098,
@@ -343,7 +344,8 @@
       "2026-02-20": 543,
       "2026-07-28": 665,
       "2026-08-03": 698,
-      "2026-08-02": 781
+      "2026-08-02": 781,
+      "2026-09-06": 4
     }
   },
   {
@@ -351,13 +353,13 @@
     "url": "https://wguarani.uncoma.edu.ar/autogestion/",
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "debian-fai",
-    "status": "up",
+    "status": "down",
     "uptime": "89.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.37%",
-    "time": 2393,
+    "time": 2395,
     "timeDay": 769,
     "timeWeek": 853,
     "timeMonth": 832,
@@ -400,7 +402,8 @@
       "2026-07-15": 641,
       "2026-07-28": 665,
       "2026-08-03": 698,
-      "2026-08-02": 779
+      "2026-08-02": 779,
+      "2026-09-06": 2
     }
   },
   {
@@ -408,9 +411,9 @@
     "url": "https://cefai.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
-    "status": "up",
+    "status": "down",
     "uptime": "92.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "90.37%",
@@ -478,7 +481,8 @@
       "2026-07-26": 66,
       "2026-08-03": 69,
       "2026-08-02": 777,
-      "2026-08-11": 48
+      "2026-08-11": 48,
+      "2026-09-06": 0
     }
   }
 ]
