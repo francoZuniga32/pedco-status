@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 4939,
     "timeDay": 2537,
     "timeWeek": 2654,
     "timeMonth": 2817,
-    "timeYear": 4523,
+    "timeYear": 4499,
     "dailyMinutesDown": {
       "2025-10-24": 20,
       "2025-11-14": 16,
@@ -170,12 +170,12 @@
     "url": "https://wguarani.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
-    "status": "up",
-    "uptime": "33.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "33.45%",
+    "status": "down",
+    "uptime": "33.55%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "33.55%",
     "time": 2263,
     "timeDay": 3393,
     "timeWeek": 3042,
@@ -347,7 +347,8 @@
       "2026-09-06": 650,
       "2026-09-21": 887,
       "2026-09-20": 1440,
-      "2026-09-19": 1016
+      "2026-09-19": 1016,
+      "2026-10-22": 5
     }
   },
   {
@@ -355,13 +356,13 @@
     "url": "https://wguarani.uncoma.edu.ar/autogestion/",
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "debian-fai",
-    "status": "up",
+    "status": "down",
     "uptime": "89.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.51%",
-    "time": 2342,
+    "time": 2344,
     "timeDay": 912,
     "timeWeek": 856,
     "timeMonth": 788,
@@ -405,7 +406,8 @@
       "2026-09-06": 648,
       "2026-09-21": 888,
       "2026-09-20": 1440,
-      "2026-09-19": 1011
+      "2026-09-19": 1011,
+      "2026-10-22": 0
     }
   },
   {
