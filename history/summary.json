@@ -4,17 +4,17 @@
     "url": "https://www.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fi.uncoma.edu.ar.ico",
     "slug": "fai-web",
-    "status": "down",
+    "status": "up",
     "uptime": "94.59%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.48%",
-    "time": 4933,
-    "timeDay": 1850,
-    "timeWeek": 2468,
-    "timeMonth": 2763,
-    "timeYear": 4489,
+    "uptimeDay": "86.39%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.44%",
+    "time": 4930,
+    "timeDay": 2420,
+    "timeWeek": 2589,
+    "timeMonth": 2788,
+    "timeYear": 4468,
     "dailyMinutesDown": {
       "2025-10-24": 20,
       "2025-11-14": 16,
@@ -42,7 +42,7 @@
       "2026-08-11": 49,
       "2026-09-07": 861,
       "2026-09-06": 653,
-      "2026-10-22": 10
+      "2026-10-22": 196
     }
   },
   {
@@ -172,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
     "status": "down",
-    "uptime": "33.52%",
-    "uptimeDay": "78.71%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "33.52%",
+    "uptime": "33.50%",
+    "uptimeDay": "65.12%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "33.50%",
     "time": 2263,
     "timeDay": 3393,
     "timeWeek": 3042,
@@ -349,7 +349,7 @@
       "2026-09-21": 887,
       "2026-09-20": 1440,
       "2026-09-19": 1016,
-      "2026-10-22": 307
+      "2026-10-22": 502
     }
   },
   {
@@ -359,15 +359,15 @@
     "slug": "debian-fai",
     "status": "down",
     "uptime": "89.86%",
-    "uptimeDay": "79.05%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "93.46%",
+    "uptimeDay": "65.46%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "93.45%",
     "time": 2344,
     "timeDay": 912,
     "timeWeek": 856,
     "timeMonth": 788,
-    "timeYear": 1790,
+    "timeYear": 1789,
     "dailyMinutesDown": {
       "2025-11-14": 15,
       "2025-11-17": 125,
@@ -408,7 +408,7 @@
       "2026-09-21": 888,
       "2026-09-20": 1440,
       "2026-09-19": 1011,
-      "2026-10-22": 302
+      "2026-10-22": 497
     }
   },
   {
@@ -426,7 +426,7 @@
     "timeDay": 1214,
     "timeWeek": 1159,
     "timeMonth": 1551,
-    "timeYear": 1635,
+    "timeYear": 1634,
     "dailyMinutesDown": {
       "2025-11-17": 125,
       "2025-12-01": 642,
