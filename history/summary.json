@@ -14,7 +14,7 @@
     "timeDay": 2420,
     "timeWeek": 2589,
     "timeMonth": 2788,
-    "timeYear": 4468,
+    "timeYear": 4457,
     "dailyMinutesDown": {
       "2025-10-24": 20,
       "2025-11-14": 16,
@@ -50,19 +50,18 @@
     "url": "https://pedco.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pedco.uncoma.edu.ar.ico",
     "slug": "pedco",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.49%",
-    "time": 2157,
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.50%",
+    "time": 2150,
     "timeDay": 2040,
     "timeWeek": 1958,
     "timeMonth": 1946,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2026-02-10": 60,
       "2026-02-11": 58,
       "2026-02-12": 44,
       "2026-02-15": 43,
@@ -163,7 +162,8 @@
       "2026-09-06": 1109,
       "2026-10-03": 302,
       "2026-10-04": 350,
-      "2026-10-10": 363
+      "2026-10-10": 363,
+      "2026-10-22": 10
     }
   },
   {
@@ -172,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
     "status": "down",
-    "uptime": "33.50%",
-    "uptimeDay": "65.12%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "33.50%",
+    "uptime": "33.48%",
+    "uptimeDay": "52.93%",
+    "uptimeWeek": "93.28%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "33.48%",
     "time": 2263,
     "timeDay": 3393,
     "timeWeek": 3042,
@@ -349,7 +349,7 @@
       "2026-09-21": 887,
       "2026-09-20": 1440,
       "2026-09-19": 1016,
-      "2026-10-22": 502
+      "2026-10-22": 678
     }
   },
   {
@@ -358,11 +358,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "down",
-    "uptime": "89.86%",
-    "uptimeDay": "65.46%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "93.45%",
+    "uptime": "89.85%",
+    "uptimeDay": "53.27%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "93.42%",
     "time": 2344,
     "timeDay": 912,
     "timeWeek": 856,
@@ -408,7 +408,7 @@
       "2026-09-21": 888,
       "2026-09-20": 1440,
       "2026-09-19": 1011,
-      "2026-10-22": 497
+      "2026-10-22": 673
     }
   },
   {
@@ -426,7 +426,7 @@
     "timeDay": 1214,
     "timeWeek": 1159,
     "timeMonth": 1551,
-    "timeYear": 1634,
+    "timeYear": 1625,
     "dailyMinutesDown": {
       "2025-11-17": 125,
       "2025-12-01": 642,
