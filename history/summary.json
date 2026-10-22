@@ -4,17 +4,17 @@
     "url": "https://www.fi.uncoma.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fi.uncoma.edu.ar.ico",
     "slug": "fai-web",
-    "status": "up",
+    "status": "down",
     "uptime": "94.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.48%",
-    "time": 4939,
-    "timeDay": 2537,
-    "timeWeek": 2654,
-    "timeMonth": 2817,
-    "timeYear": 4499,
+    "time": 4933,
+    "timeDay": 1850,
+    "timeWeek": 2468,
+    "timeMonth": 2763,
+    "timeYear": 4489,
     "dailyMinutesDown": {
       "2025-10-24": 20,
       "2025-11-14": 16,
@@ -41,7 +41,8 @@
       "2026-08-02": 785,
       "2026-08-11": 49,
       "2026-09-07": 861,
-      "2026-09-06": 653
+      "2026-09-06": 653,
+      "2026-10-22": 10
     }
   },
   {
@@ -171,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "siu-guarani-fai",
     "status": "down",
-    "uptime": "33.55%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "33.55%",
+    "uptime": "33.52%",
+    "uptimeDay": "78.71%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "33.52%",
     "time": 2263,
     "timeDay": 3393,
     "timeWeek": 3042,
@@ -348,7 +349,7 @@
       "2026-09-21": 887,
       "2026-09-20": 1440,
       "2026-09-19": 1016,
-      "2026-10-22": 5
+      "2026-10-22": 307
     }
   },
   {
@@ -357,16 +358,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wguarani.uncoma.edu.ar.ico",
     "slug": "debian-fai",
     "status": "down",
-    "uptime": "89.87%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.51%",
+    "uptime": "89.86%",
+    "uptimeDay": "79.05%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "93.46%",
     "time": 2344,
     "timeDay": 912,
     "timeWeek": 856,
     "timeMonth": 788,
-    "timeYear": 1864,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2025-11-14": 15,
       "2025-11-17": 125,
@@ -407,7 +408,7 @@
       "2026-09-21": 888,
       "2026-09-20": 1440,
       "2026-09-19": 1011,
-      "2026-10-22": 0
+      "2026-10-22": 302
     }
   },
   {
@@ -416,7 +417,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cefai.fi.uncoma.edu.ar.ico",
     "slug": "cefai",
     "status": "up",
-    "uptime": "92.84%",
+    "uptime": "92.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
