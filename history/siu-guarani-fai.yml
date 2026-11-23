@@ -1,7 +1,7 @@
 url: https://wguarani.uncoma.edu.ar/
-status: up
-code: 200
-responseTime: 3245
-lastUpdated: 2026-11-23T03:21:32.104Z
+status: down
+code: 503
+responseTime: 764
+lastUpdated: 2026-11-23T22:41:11.436Z
 startTime: 2026-02-20T14:56:43.066Z
 generator: Upptime <https://github.com/upptime/upptime>
