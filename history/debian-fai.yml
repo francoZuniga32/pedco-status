@@ -1,7 +1,7 @@
 url: https://wguarani.uncoma.edu.ar/autogestion/
-status: up
-code: 200
-responseTime: 956
-lastUpdated: 2026-11-25T05:08:37.135Z
+status: down
+code: 503
+responseTime: 640
+lastUpdated: 2026-11-25T20:30:54.149Z
 startTime: 2022-04-17T02:28:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
